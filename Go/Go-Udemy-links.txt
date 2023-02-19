@@ -1,0 +1,4 @@
+For presentations & other stuff - https://goo.gl/PHKgO7
+Course Outline - https://docs.google.com/document/d/1ckYpi6hcRkaBUEk975f54oGsHYHu7GhzOk7-nOrkNxo/edit
+
+Idiomatic Go - https://about.sourcegraph.com/go/idiomatic-go/#What-is-idiomatic-Go
